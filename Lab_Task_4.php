@@ -23,7 +23,7 @@ class user {
 		$this -> name = " ";
 		$this -> email = " ";
 		$this ->  gender = " ";
-	}
+	} 
 	
 	function set_name($name)
 	{
